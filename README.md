@@ -4,10 +4,10 @@ I'm a full-stack developer in training who loves solving problems with code and 
 
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, Node.js
-- **Frameworks / Libraries**: Express.js, React.js, React Router, Axios
+- **Languages**: JavaScript, Node.js, TypeScript
+- **Frameworks / Libraries**: Express.js, React.js, React Router, Axios, Next.js
 - **Testing**: TDD (Test Driven Development), Jest, Supertest
-- **Styling**: CSS
+- **Styling**: CSS, Tailwind, Nativewind
 - **Databases**: PostgreSQL, SQL, Supabase
 - **Other**: Version Control, Git, VS Code
 
