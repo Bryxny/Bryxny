@@ -16,6 +16,7 @@ I'm a full-stack developer in training who loves solving problems with code and 
 - 🍳 [**Cheffy**](https://github.com/oliver-chunlong/cheffy-by-codependents) —  A hands-free cooking companion designed to make cooking delicious meals simpler.
 - 🏋️‍♂️ [**Reppy**](https://github.com/Bryxny/Reppy.git) - A beginner-friendly workout app that builds personalized strength training plans based on your available equipment and preferred training days. It helps ease gym anxiety by offering alternatives to intimidating exercises.
 - 🔗 [**NC News**](https://github.com/Bryxny/NC-News) — This is a news website built with react.js that fetches and displays articles from a custom RESTful API.
+- 📌 [**Memo Board Portfolio**](https://github.com/Bryxny/memo-portfolio) - Interactive portfolio inspired by a physical memo board with draggable components.
 
 ### 🌱 Currently
 - Expanding my portfolio with full-stack projects
