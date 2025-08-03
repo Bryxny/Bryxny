@@ -11,6 +11,10 @@ I'm a full-stack developer in training who loves solving problems with code and 
 - **Databases**: PostgreSQL, SQL, Supabase
 - **Other**: Version Control, Git, VS Code
 
+### Portfolio
+
+- 🎮 [**Portfolio**](https://bry-dev.vercel.app) - A custom CRT-themed next.js app with a video game feel to show off my personal style and projects.
+
 ### Projects
 
 - 🍳 [**Cheffy**](https://github.com/oliver-chunlong/cheffy-by-codependents) —  A hands-free cooking companion designed to make cooking delicious meals simpler.
